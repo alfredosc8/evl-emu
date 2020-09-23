@@ -122,5 +122,5 @@ The alarm zones need a name and a "type" the type comes from the list of [Device
 + vibration: *On* means vibration detected, *Off* means no vibration (clear)
 + window: *On* means open, *Off* means closed
 
-###Article
+### Article
 https://chrisschuld.com/2019/02/home-assistant-to-dsc-alarm-with-an-it-100/
